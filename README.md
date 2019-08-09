@@ -7,4 +7,4 @@ The voices of military objectors to illegal war and occupation and the policies 
 
 ^^^ To install this addon, either use the <a href="https://www.tvaddons.co/github-browser-kodi/">Kodi Github installer</a> addon or save the .zip file downloaded from the 'clone or download' button to somewhere the Kodi can access (e.g. network drive or USB stick). Then on the Kodi, go to addons > install from zip file.<br>
 
-<a href="https://couragetoresist.org/category/podcasts"><img src="https://couragetoresist.org/wp-content/uploads/2017/05/itunes.jpg">
+<a href="https://couragetoresist.org/category/podcasts"><img src="https://couragetoresist.org/wp-content/uploads/2017/05/itunes.jpg"><br><a href="http://www.kodi.tv"><img src="https://kodi.tv/sites/default/files/page/field_image/about--devices.jpg">
